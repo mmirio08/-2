@@ -1,0 +1,38 @@
+
+рудз
+help
+help
+Help
+Z:\ОССТ_2024-2025\1-МД-5\Жукова Карина>help
+Z:\ОССТ_2024-2025\1-МД-5\Жукова Карина>type file1.txt
+aAaAaAaAaAaA
+bBbBbBbBbB
+cCcCcCcCcC
+kKkKkKkKk
+DdDdDdDdDd
+eEeEeEeEe
+Z:\ОССТ_2024-2025\1-МД-5\Жукова Карина>sort file1.txt
+aAaAaAaAaAaA
+bBbBbBbBbB
+cCcCcCcCcC
+DdDdDdDdDd
+eEeEeEeEe
+kKkKkKkKk
+
+Z:\ОССТ_2024-2025\1-МД-5\Жукова Карина>copy file1.txt c:\
+Отказано в доступе.
+Скопировано файлов:         0.
+
+Z:\ОССТ_2024-2025\1-МД-5\Жукова Карина>copy file1.txt D:\
+Скопировано файлов:
+Z:\ОССТ_2024-2025\1-МД-5\Жукова Карина>doskey file1.txt D:\
+
+Z:\ОССТ_2024-2025\1-МД-5\Жукова Карина>mkdir file1.txt D:
+Z:\ОССТ_2024-2025\1-МД-5\Жукова Карина>mkdir file1.txt D:\
+Z:\ОССТ_2024-2025\1-МД-5\Жукова Карина>copy con  lastnames.tx
+Z:\ОССТ_2024-2025\1-МД-5\Жукова Карина>copy con lastnames.txt
+Жукова
+Тетерин
+Березовская 
+Козрь
+Плесовских
